@@ -17,5 +17,5 @@ Implemented the Support Vector Machine classification algorithm and applied it t
 Designed a simple artificial neural network with existing frameworks, and created a custom neural network implementation. Compared the two with tuning 
 on the classic 'XOR' dataset
 
-#ImageClassificationNeuralNet
+##ImageClassificationNeuralNet
 Designed the layers of a deep learning neural net and compared it to a pretrained model on their ability to classify images of iconic UVA buildings 
